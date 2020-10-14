@@ -13,3 +13,7 @@ Well-written articles and tutorials that provide intuitive understanding of mach
 ## Machine Learning
 * [Foundations of Machine Learning by Bloomberg](https://bloomberg.github.io/foml/#about)
 * [Support Vector Machine (SVM)](https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93)
+
+
+## Data Engineering
+* DE Cookbook - [Full Guide](https://github.com/andkret/Cookbook)
