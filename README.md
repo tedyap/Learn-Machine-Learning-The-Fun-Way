@@ -4,6 +4,9 @@ Well-written articles and tutorials that provide intuitive understanding of mach
 ## Probability & Statistics
 * [MLE vs MAP](https://wiseodd.github.io/techblog/2017/01/01/mle-vs-map/)
 
+## Linear Algebra
+* Really good review of linear algebra by Prof. Strang from [MIT](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/index.htm)
+
 ## Computer Vision
 * [Object Detection Tutorial from roboflow](https://blog.roboflow.com/object-detection/)
 
