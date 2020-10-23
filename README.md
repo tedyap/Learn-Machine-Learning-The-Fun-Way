@@ -12,6 +12,7 @@ Well-written articles and tutorials that provide intuitive understanding of mach
 
 ## Natural Language Processing
 * [GPT-3 Applications](https://www.infoq.com/articles/gpt3-enabled-applications/)
+* [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 
 ## Machine Learning
 * [Foundations of Machine Learning by Bloomberg](https://bloomberg.github.io/foml/#about)
