@@ -21,3 +21,4 @@ Well-written articles and tutorials that provide intuitive understanding of mach
 
 ## Data Engineering
 * DE Cookbook - [Full Guide](https://github.com/andkret/Cookbook)
+* [Tidy Data](https://vita.had.co.nz/papers/tidy-data.pdf)
